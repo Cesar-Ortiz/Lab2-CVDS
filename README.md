@@ -30,9 +30,11 @@ Los plugins pueden contener información que indique la fase del ciclo de vida a
 
 **Referencias**
 
-[wordpress](https://rubensa.wordpress.com/2016/06/10/maven-lifecycle/#:~:text=Maven%20se%20fundamenta%20en%20el,proyecto)%20concreto%20est%C3%A1%20definido%20claramente.)
-[it-swarm](https://www.it-swarm.dev/es/maven/cuales-son-los-objetivos-y-fases-de-maven-y-cual-es-su-diferencia/1071905498/)
-[maven](https://maven.apache.org/)
+<https://rubensa.wordpress.com/2016/06/10/maven-lifecycle/#:~:text=Maven%20se%20fundamenta%20en%20el,proyecto%20concreto%20est%C3%A1%20definido%20claramente.>
+
+<https://www.it-swarm.dev/es/maven/cuales-son-los-objetivos-y-fases-de-maven-y-cual-es-su-diferencia/1071905498/>
+
+<https://maven.apache.org/>
 
 
 
