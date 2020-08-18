@@ -3,7 +3,7 @@
 
 **¿Cuál es su mayor utilidad?**
 
-*Maven puede administrar la construcción, informes y documentación de un proyecto a partir de una pieza central de información. Crear y gestionar cualquier proyecto basado en Java, permitir que un desarrollador comprenda el estado completo de un esfuerzo de desarrollo en el período de tiempo más corto.
+* Maven puede administrar la construcción, informes y documentación de un proyecto a partir de una pieza central de información. Crear y gestionar cualquier proyecto basado en Java, permitir que un desarrollador comprenda el estado completo de un esfuerzo de desarrollo en el período de tiempo más corto.
 
 **Fases de maven**
 Cada ciclo de vida se compone de las siguientes fases:
